@@ -1,6 +1,6 @@
 # [M Mati Ur Rehman]
 
-![Your Image](Mati.jpg)
+![Your Image](./Mati.jpg)
 
 ### Committed Full Stack Developer
 
