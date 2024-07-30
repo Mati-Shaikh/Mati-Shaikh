@@ -17,9 +17,9 @@ Dedicated to delivering excellence and fostering collaboration. Skilled software
 
 ## Contact
 
-- **Email:** [your-email@example.com](mailto:matishaikh7@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/m-mati-ur-rehman-257219271)
-- **GitHub:** [Your GitHub Profile](https://github.com/Mati-Shaikh)
+- **Email:** [matishaikh7@gmail.com](mailto:matishaikh7@gmail.com)
+- **LinkedIn:** [www.linkedin.com/in/m-mati-ur-rehman-257219271](www.linkedin.com/in/m-mati-ur-rehman-257219271)
+- **GitHub:** [[Your GitHub Profile](https://github.com/Mati-Shaikh)](https://github.com/Mati-Shaikh)
 
 ---
 
