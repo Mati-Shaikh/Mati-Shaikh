@@ -1,8 +1,6 @@
-![Logo](your-logo-url.png)
-
 # [M Mati Ur Rehman]
 
-![Your Image](your-image-url.jpg)
+![Your Image](Mati.jpg)
 
 ### Committed Full Stack Developer
 
