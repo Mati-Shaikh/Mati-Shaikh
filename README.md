@@ -1,6 +1,6 @@
 # [M Mati Ur Rehman]
 
-![Your Image](Mati.png)
+<img src="Mati.png" alt="Your Image" style="width: 150px; height: 150px; border-radius: 50%;" />
 
 ### Committed Full Stack Developer
 
@@ -18,11 +18,11 @@ Dedicated to delivering excellence and fostering collaboration. Skilled software
 ## Contact
 
 - **Email:** [matishaikh7@gmail.com](mailto:matishaikh7@gmail.com)
-- **LinkedIn:** [www.linkedin.com/in/m-mati-ur-rehman-257219271](www.linkedin.com/in/m-mati-ur-rehman-257219271)
-- **GitHub:** [[Your GitHub Profile](https://github.com/Mati-Shaikh)](https://github.com/Mati-Shaikh)
+- **LinkedIn:** [www.linkedin.com/in/m-mati-ur-rehman-257219271](https://www.linkedin.com/in/m-mati-ur-rehman-257219271)
+- **GitHub:** [Your GitHub Profile](https://github.com/Mati-Shaikh)
 
 ---
 
 **[M Mati Ur Rehman]** - Full Stack Developer
 
-[![GitHub followers](https:/  /img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/m-mati-ur-rehman-257219271)
+[![GitHub followers](https://img.shields.io/github/followers/Mati-Shaikh?label=Follow&style=social)](https://github.com/Mati-Shaikh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/m-mati-ur-rehman-257219271)
